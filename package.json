@@ -1,0 +1,7 @@
+{
+  "name": "shipjs-sandbox",
+  "version": "1.0.0",
+  "repository": "ssh://git@github.com/dkimura/shipjs-sandbox.git",
+  "author": "Daichi Kimura <dkimura@bdd.xyz>",
+  "license": "MIT"
+}
